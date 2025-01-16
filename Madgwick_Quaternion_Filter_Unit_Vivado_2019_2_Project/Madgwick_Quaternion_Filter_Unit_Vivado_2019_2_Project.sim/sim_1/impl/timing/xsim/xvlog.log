@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Dev/Madgwick_Quaternion_Filter_Unit/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project.sim/sim_1/impl/timing/xsim/madgwick_tb_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fastInvSqrt
+INFO: [VRFC 10-311] analyzing module fastInvSqrt__parameterized0
+INFO: [VRFC 10-311] analyzing module fastInvSqrt__parameterized1
+INFO: [VRFC 10-311] analyzing module madgwick
+INFO: [VRFC 10-311] analyzing module newtonRaphson
+INFO: [VRFC 10-311] analyzing module newtonRaphson__parameterized0
+INFO: [VRFC 10-311] analyzing module newtonRaphson__parameterized1
+INFO: [VRFC 10-311] analyzing module singleToFix
+INFO: [VRFC 10-311] analyzing module singleToFix__parameterized0
+INFO: [VRFC 10-311] analyzing module singleToFix__parameterized1
+INFO: [VRFC 10-311] analyzing module glbl

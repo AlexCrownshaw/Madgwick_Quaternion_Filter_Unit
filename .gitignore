@@ -1,0 +1,103 @@
+# Vivado generated files specific to MQFU_MicroBlaze_SoC
+/MQFU_MicroBlaze_SoC/*.jou
+/MQFU_MicroBlaze_SoC/*.log
+/MQFU_MicroBlaze_SoC/*.str
+/MQFU_MicroBlaze_SoC/.cache/
+/MQFU_MicroBlaze_SoC/.hw/
+/MQFU_MicroBlaze_SoC/.runs/
+/MQFU_MicroBlaze_SoC/.sim/
+/MQFU_MicroBlaze_SoC/.webtalk/
+/MQFU_MicroBlaze_SoC/*.xpr
+/MQFU_MicroBlaze_SoC/*.wdb
+/MQFU_MicroBlaze_SoC/*.wcfg
+/MQFU_MicroBlaze_SoC/.ip_user_files/
+/MQFU_MicroBlaze_SoC/.data/
+/MQFU_MicroBlaze_SoC/*.dcp
+/MQFU_MicroBlaze_SoC/*.rpt
+
+# Temporary files specific to MQFU_MicroBlaze_SoC
+/MQFU_MicroBlaze_SoC/*.tmp
+/MQFU_MicroBlaze_SoC/*.bak
+/MQFU_MicroBlaze_SoC/*~
+
+# Checkpoints and Build Artifacts specific to MQFU_MicroBlaze_SoC
+/MQFU_MicroBlaze_SoC/*.bit
+/MQFU_MicroBlaze_SoC/*.bin
+/MQFU_MicroBlaze_SoC/*.elf
+
+# Simulation cache specific to MQFU_MicroBlaze_SoC
+/MQFU_MicroBlaze_SoC/.sim/
+/MQFU_MicroBlaze_SoC/modelsim.ini
+/MQFU_MicroBlaze_SoC/xsim.dir/
+/MQFU_MicroBlaze_SoC/transcript
+/MQFU_MicroBlaze_SoC/vsim.wlf
+
+# SDK/PlatformIO related specific to MQFU_MicroBlaze_SoC
+/MQFU_MicroBlaze_SoC/.sdk/
+/MQFU_MicroBlaze_SoC/.mmi
+/MQFU_MicroBlaze_SoC/*.hdf
+/MQFU_MicroBlaze_SoC/*.xsa
+
+# Ignore temporary and generated files in ip_repo
+/ip_repo/*/.cache/
+/ip_repo/*/.hw/
+/ip_repo/*/.runs/
+/ip_repo/*/.sim/
+/ip_repo/*/.webtalk/
+/ip_repo/*/*.jou
+/ip_repo/*/*.log
+/ip_repo/*/*.str
+/ip_repo/*/*.dcp
+/ip_repo/*/*.rpt
+/ip_repo/*/*.wdb
+/ip_repo/*/*.bit
+/ip_repo/*/*.bin
+/ip_repo/*/*.elf
+/ip_repo/*/*.tmp
+/ip_repo/*/*.bak
+/ip_repo/*/*~
+/ip_repo/*/xsim.dir/
+/ip_repo/*/transcript
+/ip_repo/*/vsim.wlf
+/ip_repo/*/xgui/
+/ip_repo/*/.impl/
+
+# Vivado generated files for Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/*.jou
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/*.log
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/*.str
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/.cache/
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/.hw/
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/.runs/
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/.sim/
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/.impl/
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/.webtalk/
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/*.xpr
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/*.wdb
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/*.wcfg
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/.ip_user_files/
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/.data/
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/*.dcp
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/*.rpt
+
+# Temporary files specific to the project
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/*.tmp
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/*.bak
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/*~
+
+# Checkpoints and Build Artifacts
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/*.bit
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/*.bin
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/*.elf
+
+# Simulation cache
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/.sim/
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/modelsim.ini
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/xsim.dir/
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/transcript
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/vsim.wlf
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/xgui/
+/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/.impl/
+
+# Ignore PyCharm project files
+/.idea/

@@ -1,0 +1,29 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Dev/Madgwick_Quaternion_Filter_Unit/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project.sim/sim_1/synth/func/xsim/madgwick_tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fastInvSqrt
+INFO: [VRFC 10-311] analyzing module fastInvSqrt__parameterized0
+INFO: [VRFC 10-311] analyzing module fastInvSqrt__parameterized1
+INFO: [VRFC 10-311] analyzing module madgwick
+INFO: [VRFC 10-311] analyzing module madgwick_top
+INFO: [VRFC 10-311] analyzing module newtonRaphson
+INFO: [VRFC 10-311] analyzing module newtonRaphson__parameterized0
+INFO: [VRFC 10-311] analyzing module newtonRaphson__parameterized1
+INFO: [VRFC 10-311] analyzing module singleToFix
+INFO: [VRFC 10-311] analyzing module singleToFix__parameterized0
+INFO: [VRFC 10-311] analyzing module singleToFix__parameterized1
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/fastInvSqrt.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fastInvSqrt
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'fastInvSqrt' [C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/fastInvSqrt.sv:22]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/fixToSingle.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fixToSingle
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/mqf/madgwick.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module madgwick
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'madgwick' [C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/mqf/madgwick.sv:4]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/newtonRaphson.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module newtonRaphson
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'newtonRaphson' [C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/newtonRaphson.sv:22]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/singleToFix.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module singleToFix
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'singleToFix' [C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/singleToFix.sv:22]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Dev/Madgwick_Quaternion_Filter_Unit/sim/tb_madgwick.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module madgwick_tb

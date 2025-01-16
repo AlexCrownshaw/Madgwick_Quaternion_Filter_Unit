@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../rtl/mqf" --include "../../../../../../sim" \
+"madgwick_tb_time_impl.v" \
+
+sv xil_defaultlib  --include "../../../../../../rtl/mqf" --include "../../../../../../sim" \
+"../../../../../../sim/tb_madgwick.sv" \
+
+# Do not sort compile order
+nosort

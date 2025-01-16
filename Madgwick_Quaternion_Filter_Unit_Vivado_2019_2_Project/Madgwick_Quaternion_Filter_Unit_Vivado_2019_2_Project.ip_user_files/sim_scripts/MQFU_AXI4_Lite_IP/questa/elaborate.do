@@ -1,0 +1,1 @@
+vopt -64 +acc -l elaborate.log -L xilinx_vip -L xil_defaultlib -L axi_vip_v1_1_6 -L xilinx_vip -L unisims_ver -L unimacro_ver -L secureip -work xil_defaultlib xil_defaultlib.MQFU_AXI4_Lite_IP xil_defaultlib.glbl -o MQFU_AXI4_Lite_IP_opt

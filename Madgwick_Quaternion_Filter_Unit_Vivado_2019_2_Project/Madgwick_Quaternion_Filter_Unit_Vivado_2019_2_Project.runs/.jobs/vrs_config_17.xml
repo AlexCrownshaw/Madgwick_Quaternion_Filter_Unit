@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="MQFU_AXI4_Lite_IP_synth_1" LaunchDir="C:/Dev/Madgwick_Quaternion_Filter_Unit/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project.runs/MQFU_AXI4_Lite_IP_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+		<Parameter Name="runs.enableClusterConf" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+

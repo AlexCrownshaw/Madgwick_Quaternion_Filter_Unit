@@ -1,0 +1,847 @@
+TRACE::2025-01-05.10:57:37::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:37::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:37::SCWPlatform::Do not have an existing db opened. 
+TRACE::2025-01-05.10:57:37::SCWPlatform::Opened new HwDB with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:37::SCWWriter::formatted JSON is {
+	"platformName":	"MQFU_MicroBlaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"MQFU_MicroBlaze_wrapper",
+	"platHandOff":	"C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/MQFU_MicroBlaze_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/MQFU_MicroBlaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2025-01-05.10:57:37::SCWWriter::formatted JSON is {
+	"platformName":	"MQFU_MicroBlaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"MQFU_MicroBlaze_wrapper",
+	"platHandOff":	"C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/MQFU_MicroBlaze_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/MQFU_MicroBlaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"MQFU_MicroBlaze_wrapper",
+	"systems":	[{
+			"systemName":	"MQFU_MicroBlaze_wrapper",
+			"systemDesc":	"MQFU_MicroBlaze_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"MQFU_MicroBlaze_wrapper"
+		}]
+}
+TRACE::2025-01-05.10:57:37::SCWPlatform::Boot application domains not present, creating them
+TRACE::2025-01-05.10:57:37::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2025-01-05.10:57:37::SCWWriter::formatted JSON is {
+	"platformName":	"MQFU_MicroBlaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"MQFU_MicroBlaze_wrapper",
+	"platHandOff":	"C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/MQFU_MicroBlaze_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/MQFU_MicroBlaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"MQFU_MicroBlaze_wrapper",
+	"systems":	[{
+			"systemName":	"MQFU_MicroBlaze_wrapper",
+			"systemDesc":	"MQFU_MicroBlaze_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"MQFU_MicroBlaze_wrapper"
+		}]
+}
+TRACE::2025-01-05.10:57:37::SCWWriter::formatted JSON is {
+	"platformName":	"MQFU_MicroBlaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"MQFU_MicroBlaze_wrapper",
+	"platHandOff":	"C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/MQFU_MicroBlaze_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/MQFU_MicroBlaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"MQFU_MicroBlaze_wrapper",
+	"systems":	[{
+			"systemName":	"MQFU_MicroBlaze_wrapper",
+			"systemDesc":	"MQFU_MicroBlaze_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"MQFU_MicroBlaze_wrapper"
+		}]
+}
+TRACE::2025-01-05.10:57:37::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:37::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:37::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:37::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:37::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:37::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:37::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:37::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:37::SCWDomain::checking for install qemu data   : 
+TRACE::2025-01-05.10:57:37::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:37::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:37::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:37::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:37::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:37::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:37::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:37::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:37::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:37::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:37::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:37::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:37::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:37::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:37::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:37::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2025-01-05.10:57:37::SCWMssOS::No sw design opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:37::SCWMssOS::mss does not exists at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:37::SCWMssOS::Creating sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:37::SCWMssOS::Adding the swdes entry, created swdb C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:37::SCWMssOS::updating the scw layer changes to swdes at   C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:37::SCWMssOS::Writing mss at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:37::SCWMssOS::Completed writing the mss file at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2025-01-05.10:57:37::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2025-01-05.10:57:37::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2025-01-05.10:57:37::SCWMssOS::Completed writing the mss file at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2025-01-05.10:57:37::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2025-01-05.10:57:38::SCWMssOS::Saving the mss changes C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::Adding the swdes entry, mss present, able to open swdb C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss with des name system
+TRACE::2025-01-05.10:57:38::SCWMssOS::Writing the mss file completed C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::Commit changes completed.
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWWriter::formatted JSON is {
+	"platformName":	"MQFU_MicroBlaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"MQFU_MicroBlaze_wrapper",
+	"platHandOff":	"C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/MQFU_MicroBlaze_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/MQFU_MicroBlaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"MQFU_MicroBlaze_wrapper",
+	"systems":	[{
+			"systemName":	"MQFU_MicroBlaze_wrapper",
+			"systemDesc":	"MQFU_MicroBlaze_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"MQFU_MicroBlaze_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"506b7d3584e3fe21178b7a5c4b777b19",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2025-01-05.10:57:38::SCWPlatform::Started generating the artifacts platform MQFU_MicroBlaze_wrapper
+TRACE::2025-01-05.10:57:38::SCWPlatform::Sanity checking of platform is completed
+LOG::2025-01-05.10:57:38::SCWPlatform::Started generating the artifacts for system configuration MQFU_MicroBlaze_wrapper
+LOG::2025-01-05.10:57:38::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2025-01-05.10:57:38::SCWSystem::Not a boot domain 
+LOG::2025-01-05.10:57:38::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2025-01-05.10:57:38::SCWDomain::Generating domain artifcats
+TRACE::2025-01-05.10:57:38::SCWMssOS::Generating standalone artifcats
+TRACE::2025-01-05.10:57:38::SCWMssOS:: Copying the user libraries. 
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::Completed writing the mss file at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2025-01-05.10:57:38::SCWMssOS::Mss edits present, copying mssfile into export location C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2025-01-05.10:57:38::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2025-01-05.10:57:38::SCWDomain::Skipping the build for domain :  standalone_microblaze_0
+TRACE::2025-01-05.10:57:38::SCWMssOS::skipping the bsp build ... 
+TRACE::2025-01-05.10:57:38::SCWMssOS::Copying to export directory.
+TRACE::2025-01-05.10:57:38::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2025-01-05.10:57:38::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2025-01-05.10:57:38::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2025-01-05.10:57:38::SCWSystem::Completed Processing the sysconfig MQFU_MicroBlaze_wrapper
+LOG::2025-01-05.10:57:38::SCWPlatform::Completed generating the artifacts for system configuration MQFU_MicroBlaze_wrapper
+TRACE::2025-01-05.10:57:38::SCWPlatform::Started preparing the platform 
+TRACE::2025-01-05.10:57:38::SCWSystem::Writing the bif file for system config MQFU_MicroBlaze_wrapper
+TRACE::2025-01-05.10:57:38::SCWSystem::dir created 
+TRACE::2025-01-05.10:57:38::SCWSystem::Writing the bif 
+TRACE::2025-01-05.10:57:38::SCWPlatform::Started writing the spfm file 
+TRACE::2025-01-05.10:57:38::SCWPlatform::Started writing the xpfm file 
+TRACE::2025-01-05.10:57:38::SCWPlatform::Completed generating the platform
+TRACE::2025-01-05.10:57:38::SCWMssOS::Saving the mss changes C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-01-05.10:57:38::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-01-05.10:57:38::SCWMssOS::Commit changes completed.
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWWriter::formatted JSON is {
+	"platformName":	"MQFU_MicroBlaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"MQFU_MicroBlaze_wrapper",
+	"platHandOff":	"C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/MQFU_MicroBlaze_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/MQFU_MicroBlaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"MQFU_MicroBlaze_wrapper",
+	"systems":	[{
+			"systemName":	"MQFU_MicroBlaze_wrapper",
+			"systemDesc":	"MQFU_MicroBlaze_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"MQFU_MicroBlaze_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"506b7d3584e3fe21178b7a5c4b777b19",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2025-01-05.10:57:38::SCWPlatform::updated the xpfm file.
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::Saving the mss changes C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-01-05.10:57:38::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-01-05.10:57:38::SCWMssOS::Commit changes completed.
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWWriter::formatted JSON is {
+	"platformName":	"MQFU_MicroBlaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"MQFU_MicroBlaze_wrapper",
+	"platHandOff":	"C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/MQFU_MicroBlaze_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/MQFU_MicroBlaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"MQFU_MicroBlaze_wrapper",
+	"systems":	[{
+			"systemName":	"MQFU_MicroBlaze_wrapper",
+			"systemDesc":	"MQFU_MicroBlaze_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"MQFU_MicroBlaze_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"506b7d3584e3fe21178b7a5c4b777b19",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::Saving the mss changes C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-01-05.10:57:38::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-01-05.10:57:38::SCWMssOS::Commit changes completed.
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWWriter::formatted JSON is {
+	"platformName":	"MQFU_MicroBlaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"MQFU_MicroBlaze_wrapper",
+	"platHandOff":	"C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/MQFU_MicroBlaze_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/MQFU_MicroBlaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"MQFU_MicroBlaze_wrapper",
+	"systems":	[{
+			"systemName":	"MQFU_MicroBlaze_wrapper",
+			"systemDesc":	"MQFU_MicroBlaze_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"MQFU_MicroBlaze_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"506b7d3584e3fe21178b7a5c4b777b19",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2025-01-05.10:57:38::SCWPlatform::Started generating the artifacts platform MQFU_MicroBlaze_wrapper
+TRACE::2025-01-05.10:57:38::SCWPlatform::Sanity checking of platform is completed
+LOG::2025-01-05.10:57:38::SCWPlatform::Started generating the artifacts for system configuration MQFU_MicroBlaze_wrapper
+LOG::2025-01-05.10:57:38::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2025-01-05.10:57:38::SCWDomain::Generating domain artifcats
+TRACE::2025-01-05.10:57:38::SCWMssOS::Generating standalone artifcats
+TRACE::2025-01-05.10:57:38::SCWMssOS:: Copying the user libraries. 
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::Completed writing the mss file at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2025-01-05.10:57:38::SCWMssOS::Mss edits present, copying mssfile into export location C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2025-01-05.10:57:38::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2025-01-05.10:57:38::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2025-01-05.10:57:38::SCWMssOS::skipping the bsp build ... 
+TRACE::2025-01-05.10:57:38::SCWMssOS::Copying to export directory.
+TRACE::2025-01-05.10:57:38::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2025-01-05.10:57:38::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2025-01-05.10:57:38::SCWSystem::Completed Processing the domain standalone_microblaze_0
+LOG::2025-01-05.10:57:38::SCWSystem::Completed Processing the sysconfig MQFU_MicroBlaze_wrapper
+LOG::2025-01-05.10:57:38::SCWPlatform::Completed generating the artifacts for system configuration MQFU_MicroBlaze_wrapper
+TRACE::2025-01-05.10:57:38::SCWPlatform::Started preparing the platform 
+TRACE::2025-01-05.10:57:38::SCWSystem::Writing the bif file for system config MQFU_MicroBlaze_wrapper
+TRACE::2025-01-05.10:57:38::SCWSystem::dir created 
+TRACE::2025-01-05.10:57:38::SCWSystem::Writing the bif 
+TRACE::2025-01-05.10:57:38::SCWPlatform::Started writing the spfm file 
+TRACE::2025-01-05.10:57:38::SCWPlatform::Started writing the xpfm file 
+TRACE::2025-01-05.10:57:38::SCWPlatform::Completed generating the platform
+TRACE::2025-01-05.10:57:38::SCWMssOS::Saving the mss changes C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2025-01-05.10:57:38::SCWMssOS::Completed writemss as part of save.
+TRACE::2025-01-05.10:57:38::SCWMssOS::Commit changes completed.
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:57:38::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:57:38::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:57:38::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:57:38::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:57:38::SCWWriter::formatted JSON is {
+	"platformName":	"MQFU_MicroBlaze_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"MQFU_MicroBlaze_wrapper",
+	"platHandOff":	"C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/MQFU_MicroBlaze_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/MQFU_MicroBlaze_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"MQFU_MicroBlaze_wrapper",
+	"systems":	[{
+			"systemName":	"MQFU_MicroBlaze_wrapper",
+			"systemDesc":	"MQFU_MicroBlaze_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"MQFU_MicroBlaze_wrapper",
+			"sysActiveDom":	"standalone_microblaze_0",
+			"sysDefaultDom":	"standalone_microblaze_0",
+			"domains":	[{
+					"domainName":	"standalone_microblaze_0",
+					"domainDispName":	"standalone_microblaze_0",
+					"domainDesc":	"standalone_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"8.0",
+					"mssFile":	"",
+					"md5Digest":	"506b7d3584e3fe21178b7a5c4b777b19",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2025-01-05.10:57:38::SCWPlatform::updated the xpfm file.
+LOG::2025-01-05.10:58:18::SCWPlatform::Started generating the artifacts platform MQFU_MicroBlaze_wrapper
+TRACE::2025-01-05.10:58:18::SCWPlatform::Sanity checking of platform is completed
+LOG::2025-01-05.10:58:18::SCWPlatform::Started generating the artifacts for system configuration MQFU_MicroBlaze_wrapper
+LOG::2025-01-05.10:58:18::SCWSystem::Checking the domain standalone_microblaze_0
+LOG::2025-01-05.10:58:18::SCWSystem::Not a boot domain 
+LOG::2025-01-05.10:58:18::SCWSystem::Started Processing the domain standalone_microblaze_0
+TRACE::2025-01-05.10:58:18::SCWDomain::Generating domain artifcats
+TRACE::2025-01-05.10:58:18::SCWMssOS::Generating standalone artifcats
+TRACE::2025-01-05.10:58:18::SCWMssOS:: Copying the user libraries. 
+TRACE::2025-01-05.10:58:18::SCWPlatform::Trying to open the hw design at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:58:18::SCWPlatform::DSA given C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:58:18::SCWPlatform::DSA absoulate path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:58:18::SCWPlatform::DSA directory C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw
+TRACE::2025-01-05.10:58:18::SCWPlatform:: Platform Path C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/hw/MQFU_MicroBlaze_wrapper.xsa
+TRACE::2025-01-05.10:58:18::SCWPlatform:: Unique name xilinx:nexys-a7-100t::0.0
+TRACE::2025-01-05.10:58:18::SCWPlatform::Trying to set the existing hwdb with name MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:58:18::SCWPlatform::Opened existing hwdb MQFU_MicroBlaze_wrapper_0
+TRACE::2025-01-05.10:58:18::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2025-01-05.10:58:18::SCWMssOS::Checking the sw design at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:58:18::SCWMssOS::DEBUG:  swdes dump  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss|system||
+
+TRACE::2025-01-05.10:58:18::SCWMssOS::Sw design exists and opened at  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:58:18::SCWMssOS::Completed writing the mss file at C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp
+TRACE::2025-01-05.10:58:18::SCWMssOS::Mss edits present, copying mssfile into export location C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp/system.mss
+TRACE::2025-01-05.10:58:18::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2025-01-05.10:58:18::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2025-01-05.10:58:18::SCWDomain::Building the domain as part of full build :  standalone_microblaze_0
+TRACE::2025-01-05.10:58:18::SCWMssOS::doing bsp build ... 
+TRACE::2025-01-05.10:58:18::SCWMssOS::System Command Ran  C: & cd  C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/MQFU_MicroBlaze_wrapper/microblaze_0/standalone_microblaze_0/bsp & make 
+TRACE::2025-01-05.10:58:18::SCWMssOS::make --no-print-directory seq_libs
+
+TRACE::2025-01-05.10:58:18::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_8/src"
+
+TRACE::2025-01-05.10:58:18::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2025-01-05.10:58:18::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2025-01-05.10:58:18::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-01-05.10:58:18::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_16/src"
+
+TRACE::2025-01-05.10:58:18::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_16/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2025-01-05.10:58:18::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+TRACE::2025-01-05.10:58:18::SCWMssOS::MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-01-05.10:58:18::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_15/src"
+
+TRACE::2025-01-05.10:58:18::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_15/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2025-01-05.10:58:18::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_C
+TRACE::2025-01-05.10:58:18::SCWMssOS::OMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-01-05.10:58:18::SCWMssOS::"Running Make include in microblaze_0/libsrc/MQFU_AXI4_Lite_IP_v1_0/src"
+
+TRACE::2025-01-05.10:58:18::SCWMssOS::make -C microblaze_0/libsrc/MQFU_AXI4_Lite_IP_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb
+TRACE::2025-01-05.10:58:18::SCWMssOS::-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compa
+TRACE::2025-01-05.10:58:18::SCWMssOS::re" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-01-05.10:58:18::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v8_0/src"
+
+TRACE::2025-01-05.10:58:18::SCWMssOS::make -C microblaze_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2025-01-05.10:58:18::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+TRACE::2025-01-05.10:58:18::SCWMssOS::TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-01-05.10:58:19::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+
+TRACE::2025-01-05.10:58:19::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2025-01-05.10:58:19::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTR
+TRACE::2025-01-05.10:58:19::SCWMssOS::A_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-01-05.10:58:19::SCWMssOS::"Running Make libs in microblaze_0/libsrc/MQFU_AXI4_Lite_IP_v1_0/src"
+
+TRACE::2025-01-05.10:58:19::SCWMssOS::make -C microblaze_0/libsrc/MQFU_AXI4_Lite_IP_v1_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar
+TRACE::2025-01-05.10:58:19::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare"
+TRACE::2025-01-05.10:58:19::SCWMssOS:: "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+
+TRACE::2025-01-05.10:58:19::SCWMssOS::"Compiling MQFU_AXI4_Lite_IP..."
+
+ERROR::2025-01-05.10:58:19::SCWMssOS::Failed to build  the bsp sources for domain - standalone_microblaze_0
+ERROR::2025-01-05.10:58:19::SCWSystem::Error in Processing the domain standalone_microblaze_0

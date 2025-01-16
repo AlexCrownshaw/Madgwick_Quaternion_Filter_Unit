@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "../../../../../rtl/mqf" --include "../../../../../sim" --include "../../../../../ip/MQFU_AXI4_Lite_IP/src" --include "../../../../Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project.ip_user_files/ipstatic/hdl" --include "C:/Xilinx/Vivado/2019.2/data/xilinx_vip/include" \
+"../../../../../rtl/fast_inv_sqrt/fastInvSqrt.sv" \
+"../../../../../rtl/fast_inv_sqrt/fixToSingle.sv" \
+"../../../../../rtl/mqf/madgwick.sv" \
+"../../../../../rtl/fast_inv_sqrt/newtonRaphson.sv" \
+"../../../../../rtl/fast_inv_sqrt/singleToFix.sv" \
+"../../../../../sim/tb_madgwick.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

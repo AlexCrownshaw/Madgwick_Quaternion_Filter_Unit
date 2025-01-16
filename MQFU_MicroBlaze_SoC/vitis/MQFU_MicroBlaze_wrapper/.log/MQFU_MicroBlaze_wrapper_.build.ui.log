@@ -1,0 +1,74 @@
+2025-01-05T10:58:16.888419900255-10:58:16 **** Build of project MQFU_MicroBlaze_wrapper ****
+000-buildplatform.bat 64225 MQFU_MicroBlaze_wrapper  
+000-XSDB Server Channel: tcfchan#1
+000-Building the BSP Library for domain  - standalone_microblaze_0 on processor microblaze_0
+000-make --no-print-directory seq_libs
+000-
+000-"Running Make include in microblaze_0/libsrc/bram_v4_8/src"
+000-
+000-make -C microblaze_0/libsrc/bram_v4_8/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+000-R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+000-MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+000-
+000-"Running Make include in microblaze_0/libsrc/cpu_v2_16/src"
+000-
+000-make -C microblaze_0/libsrc/cpu_v2_16/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+000-R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_CO
+000-MPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+000-
+000-"Running Make include in microblaze_0/libsrc/intc_v3_15/src"
+000-
+000-make -C microblaze_0/libsrc/intc_v3_15/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+000-ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_C
+000-OMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+000-
+000-"Running Make include in microblaze_0/libsrc/MQFU_AXI4_Lite_IP_v1_0/src"
+000-
+000-make -C microblaze_0/libsrc/MQFU_AXI4_Lite_IP_v1_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb
+000--ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compa
+000-re" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+000-
+000-"Running Make include in microblaze_0/libsrc/standalone_v8_0/src"
+000-
+000-make -C microblaze_0/libsrc/standalone_v8_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+000-OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EX
+000-TRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+000-
+000-"Running Make include in microblaze_0/libsrc/uartlite_v3_7/src"
+000-
+000-make -C microblaze_0/libsrc/uartlite_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+000-PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTR
+000-A_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+000-
+000-"Running Make libs in microblaze_0/libsrc/MQFU_AXI4_Lite_IP_v1_0/src"
+000-
+000-make -C microblaze_0/libsrc/MQFU_AXI4_Lite_IP_v1_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar
+000-" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-reorder -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare"
+000- "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra -fno-tree-loop-distribute-patterns"
+000-
+000-"Compiling MQFU_AXI4_Lite_IP..."
+000-
+000-cc1.exe: fatal error: *.c: Invalid argument
+000-compilation terminated.
+000/MQFU_MicroBlaze_wrapper0-1-1make[2]: *** [Makefile:18: libs] Error 12-make[2]: *** [Makefile:18: libs] Error 1
+000/MQFU_MicroBlaze_wrapper0-1-1make[1]: *** [Makefile:46: microblaze_0/libsrc/MQFU_AXI4_Lite_IP_v1_0/src/make.libs] Error 22-make[1]: *** [Makefile:46: microblaze_0/libsrc/MQFU_AXI4_Lite_IP_v1_0/src/make.libs] Error 2
+000/MQFU_MicroBlaze_wrapper0-1-1make: *** [Makefile:18: all] Error 22-make: *** [Makefile:18: all] Error 2
+000-Failed to build  the bsp sources for domain - standalone_microblaze_0
+000-Failed to generate the platform.
+000-Reason: Failed to build  the bsp sources for domain - standalone_microblaze_0
+000-    invoked from within
+000-"::tcf::eval -progress {apply {{msg} {puts $msg}}} {tcf_send_command tcfchan#0 xsdb eval s es {{platform active MQFU_MicroBlaze_wrapper; platform generate }}}"
+000-    (procedure "::tcf::send_command" line 4)
+000-    invoked from within
+000-"tcf send_command $::xsdb::curchan xsdb eval s es [list "platform active $PLATFORM_NAME; platform generate $target"]"
+000-    invoked from within
+000-"if { $iswindows == 1 } {    
+000-
+000-    set XSDB_PORT [lindex $argv 0]
+000-    set PLATFORM_NAME [lindex $argv 1]
+000-    set arglen [llength $argv]
+000-    set lastind..."
+000-    (file "C:/Xilinx/Vitis/2022.2\scripts\vitis\util\buildplatform.tcl" line 11)
+00255-
+10:58:19 Build Finished (took 2s.322ms)
+

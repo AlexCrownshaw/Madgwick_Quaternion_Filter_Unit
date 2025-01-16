@@ -1,0 +1,18 @@
+10:56:55 DEBUG : Logs will be stored at 'C:/Dev/Madgwick_Quaternion_Filter_Unit/MQFU_MicroBlaze_SoC/vitis/IDE.log'.
+10:56:57 INFO  : Launching XSCT server: xsct.bat -n  -interactive C:\Dev\Madgwick_Quaternion_Filter_Unit\MQFU_MicroBlaze_SoC\vitis\temp_xsdb_launch_script.tcl
+10:56:59 INFO  : XSCT server has started successfully.
+10:56:59 INFO  : Successfully done setting XSCT server connection channel  
+10:56:59 INFO  : plnx-install-location is set to ''
+10:56:59 INFO  : Successfully done setting workspace for the tool. 
+10:57:08 INFO  : Platform repository initialization has completed.
+10:57:08 INFO  : Registering command handlers for Vitis TCF services
+10:57:08 INFO  : Successfully done query RDI_DATADIR 
+10:57:38 INFO  : Result from executing command 'getProjects': MQFU_MicroBlaze_wrapper
+10:57:38 INFO  : Result from executing command 'getPlatforms': 
+10:57:38 WARN  : An unexpected exception occurred in the module 'platform project logging'
+10:57:38 INFO  : Platform 'MQFU_MicroBlaze_wrapper' is added to custom repositories.
+10:57:40 INFO  : Platform 'MQFU_MicroBlaze_wrapper' is added to custom repositories.
+11:04:40 ERROR : Invalid hardware specification '${sdxTcfLaunchFile:project=MQFU_MicroBlaze_SoC;fileType=hw;}' in launch configuration 'Debugger_MQFU_MicroBlaze_SoC-GDB'.
+11:05:10 ERROR : Failed to compute checksum of hardware specification file used by project 'MQFU_MicroBlaze_SoC'
+11:05:23 ERROR : Invalid hardware specification '${sdxTcfLaunchFile:project=MQFU_MicroBlaze_SoC;fileType=hw;}' in launch configuration 'Debugger_MQFU_MicroBlaze_SoC-GDB'.
+11:07:54 ERROR : Invalid hardware specification '${sdxTcfLaunchFile:project=MQFU_MicroBlaze_SoC;fileType=hw;}' in launch configuration 'Debugger_MQFU_MicroBlaze_SoC-GDB'.

@@ -1,0 +1,13 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Dev/Madgwick_Quaternion_Filter_Unit/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project.sim/sim_1/synth/func/xsim/madgwick_tb_func_synth.v,1735392279,verilog,,,,fastInvSqrt__parameterized0;fastInvSqrt__parameterized1;glbl;madgwick_top;newtonRaphson__parameterized0;newtonRaphson__parameterized1;singleToFix__parameterized0;singleToFix__parameterized1,,,../../../../../../rtl/mqf;../../../../../../sim,,,,,
+C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/fastInvSqrt.sv,1721740594,systemVerilog,C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/fixToSingle.sv;C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/newtonRaphson.sv;C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/singleToFix.sv;C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/mqf/madgwick.sv;C:/Dev/Madgwick_Quaternion_Filter_Unit/sim/tb_madgwick.sv,C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/fixToSingle.sv,,$unit_fastInvSqrt_sv;fastInvSqrt,,,../../../../../../rtl/mqf;../../../../../../sim,,,,,
+C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/fixToSingle.sv,1719743164,systemVerilog,,C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/mqf/madgwick.sv,,fixToSingle,,,../../../../../../rtl/mqf;../../../../../../sim,,,,,
+C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/newtonRaphson.sv,1721740546,systemVerilog,,C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/singleToFix.sv,,newtonRaphson,,,../../../../../../rtl/mqf;../../../../../../sim,,,,,
+C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/singleToFix.sv,1721901631,systemVerilog,,C:/Dev/Madgwick_Quaternion_Filter_Unit/sim/tb_madgwick.sv,,singleToFix,,,../../../../../../rtl/mqf;../../../../../../sim,,,,,
+C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/mqf/madgwick.sv,1735382981,systemVerilog,,C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/newtonRaphson.sv,C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/mqf/madgwickDefines.vh,madgwick,,,../../../../../../rtl/mqf;../../../../../../sim,,,,,
+C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/mqf/madgwickDefines.vh,1735391778,verilog,,,,,,,,,,,,
+C:/Dev/Madgwick_Quaternion_Filter_Unit/sim/tb_madgwick.sv,1735381451,systemVerilog,,,C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/mqf/madgwickDefines.vh;C:/Dev/Madgwick_Quaternion_Filter_Unit/sim/test_vectors.svh,madgwick_tb,,,../../../../../../rtl/mqf;../../../../../../sim,,,,,
+C:/Dev/Madgwick_Quaternion_Filter_Unit/sim/test_vectors.svh,1725359871,verilog,,,C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/mqf/madgwickDefines.vh,,,,,,,,,

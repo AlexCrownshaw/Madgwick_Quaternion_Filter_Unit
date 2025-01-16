@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "../../../../../rtl/mqf" --include "../../../../../ip/MQFU_AXI4_Lite_IP/src" --include "../../../../../tb" --include "../../../../Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project.ip_user_files/ipstatic/hdl" --include "C:/Xilinx/Vivado/2019.2/data/xilinx_vip/include" \
+"../../../../../rtl/sensors/MPU6050.sv" \
+"../../../../../rtl/fast_inv_sqrt/fastInvSqrt.sv" \
+"../../../../../rtl/fast_inv_sqrt/fixToSingle.sv" \
+"../../../../../rtl/mqf/madgwick.sv" \
+"../../../../../rtl/mqf/madgwick_top.sv" \
+"../../../../../rtl/fast_inv_sqrt/newtonRaphson.sv" \
+"../../../../../rtl/fast_inv_sqrt/singleToFix.sv" \
+
+verilog xil_defaultlib  --include "../../../../../rtl/mqf" --include "../../../../../ip/MQFU_AXI4_Lite_IP/src" --include "../../../../../tb" --include "../../../../Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project.ip_user_files/ipstatic/hdl" --include "C:/Xilinx/Vivado/2019.2/data/xilinx_vip/include" \
+"../../../../../tb/tb_madgwick_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../rtl/mqf" --include "../../../../../../sim" \
+"madgwick_tb_func_synth.v" \
+
+sv xil_defaultlib  --include "../../../../../../rtl/mqf" --include "../../../../../../sim" \
+"../../../../../../rtl/fast_inv_sqrt/fastInvSqrt.sv" \
+"../../../../../../rtl/fast_inv_sqrt/fixToSingle.sv" \
+"../../../../../../rtl/mqf/madgwick.sv" \
+"../../../../../../rtl/fast_inv_sqrt/newtonRaphson.sv" \
+"../../../../../../rtl/fast_inv_sqrt/singleToFix.sv" \
+"../../../../../../sim/tb_madgwick.sv" \
+
+# Do not sort compile order
+nosort

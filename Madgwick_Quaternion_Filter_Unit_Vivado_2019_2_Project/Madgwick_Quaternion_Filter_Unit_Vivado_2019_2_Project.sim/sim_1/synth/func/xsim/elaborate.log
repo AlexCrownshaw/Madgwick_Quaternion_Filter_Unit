@@ -1,0 +1,40 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 3328f6b0d67d4ec18ead50b77e83ef54 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L secureip --snapshot madgwick_tb_func_synth xil_defaultlib.madgwick_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/mqf/madgwick.sv" Line 4. Module madgwick_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/fastInvSqrt.sv" Line 22. Module fastInvSqrt_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/fixToSingle.sv" Line 22. Module fixToSingle doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/singleToFix.sv" Line 22. Module singleToFix_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/newtonRaphson.sv" Line 22. Module newtonRaphson_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/fastInvSqrt.sv" Line 22. Module fastInvSqrt(INT_WIDTH=8,FRACT_WIDTH=8) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/fixToSingle.sv" Line 22. Module fixToSingle(INT_WIDTH=8,FRACT_WIDTH=8) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/singleToFix.sv" Line 22. Module singleToFix(INT_WIDTH=8,FRACT_WIDTH=8) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/newtonRaphson.sv" Line 22. Module newtonRaphson(INT_WIDTH=8,FRACT_WIDTH=8) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/fastInvSqrt.sv" Line 22. Module fastInvSqrt(INT_WIDTH=6) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/fixToSingle.sv" Line 22. Module fixToSingle(INT_WIDTH=6) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/singleToFix.sv" Line 22. Module singleToFix(INT_WIDTH=6) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Dev/Madgwick_Quaternion_Filter_Unit/rtl/fast_inv_sqrt/newtonRaphson.sv" Line 22. Module newtonRaphson(INT_WIDTH=6) doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package xil_defaultlib.$unit_fastInvSqrt_sv
+Compiling module xil_defaultlib.fixToSingle
+Compiling module xil_defaultlib.singleToFix_default
+Compiling module xil_defaultlib.newtonRaphson_default
+Compiling module xil_defaultlib.fastInvSqrt_default
+Compiling module xil_defaultlib.fixToSingle(INT_WIDTH=8,FRACT_WI...
+Compiling module xil_defaultlib.singleToFix(INT_WIDTH=8,FRACT_WI...
+Compiling module xil_defaultlib.newtonRaphson(INT_WIDTH=8,FRACT_...
+Compiling module xil_defaultlib.fastInvSqrt(INT_WIDTH=8,FRACT_WI...
+Compiling module xil_defaultlib.fixToSingle(INT_WIDTH=6)
+Compiling module xil_defaultlib.singleToFix(INT_WIDTH=6)
+Compiling module xil_defaultlib.newtonRaphson(INT_WIDTH=6)
+Compiling module xil_defaultlib.fastInvSqrt(INT_WIDTH=6)
+Compiling module xil_defaultlib.madgwick_default
+Compiling module xil_defaultlib.madgwick_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot madgwick_tb_func_synth

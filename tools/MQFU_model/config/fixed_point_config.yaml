@@ -1,0 +1,38 @@
+parameters:
+  ACC_INPUT_RANGE: 19.62  # 2 * 9.81
+  GYRO_INPUT_RANGE: 8.726646259971648  # 500 * pi/180
+
+  PROC_SENS_DATA:
+    active: false
+    ACC:
+      coeff: 0.00239501953125
+    GYRO:
+      coeff: 0.0002664624812205083
+
+  ACC:
+    m: 7  # Integer width
+    n: 6  # Fractional width
+
+  GYRO:
+    m: 6
+    n: 8
+
+  ACC_MAG_SQR:
+    m: 12
+    n: 4
+
+  Q_HAT_DOT:
+    m: 8
+    n: 8
+
+  Q_HAT_DOT_MAG_SQR:
+    m: 8
+    n: 8
+
+  Q_MAG_SQR:
+    m: 6
+    n: 4
+
+  Q:
+    m: 2
+    n: 14

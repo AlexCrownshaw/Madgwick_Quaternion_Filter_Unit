@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri Jan  3 10:53:22 2025
+# Process ID: 73784
+# Current directory: C:/Dev/Madgwick_Quaternion_Filter_Unit/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project.runs/MQFU_AXI4_Lite_IP_synth_1
+# Command line: vivado.exe -log MQFU_AXI4_Lite_IP.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source MQFU_AXI4_Lite_IP.tcl
+# Log file: C:/Dev/Madgwick_Quaternion_Filter_Unit/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project.runs/MQFU_AXI4_Lite_IP_synth_1/MQFU_AXI4_Lite_IP.vds
+# Journal file: C:/Dev/Madgwick_Quaternion_Filter_Unit/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project/Madgwick_Quaternion_Filter_Unit_Vivado_2019_2_Project.runs/MQFU_AXI4_Lite_IP_synth_1\vivado.jou
+#-----------------------------------------------------------
+source MQFU_AXI4_Lite_IP.tcl -notrace

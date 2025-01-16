@@ -1,0 +1,1 @@
+-wto "3328f6b0d67d4ec18ead50b77e83ef54" --incr --debug "typical" --relax --mt "2" -L "axi_infrastructure_v1_1_0" -L "xil_defaultlib" -L "axi_vip_v1_1_6" -L "xilinx_vip" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "xpm" --snapshot "tb_MQFU_AXI4_Lite_IP_v1_0_behav" "xil_defaultlib.tb_MQFU_AXI4_Lite_IP_v1_0" "xil_defaultlib.glbl" -log "elaborate.log" 

@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_MQFU_AXI4_Lite_IP_v1_0_behav/xsimk.exe -simmode gui -wdb tb_MQFU_AXI4_Lite_IP_v1_0_behav.wdb -simrunnum 0 -socket 60357
+Design successfully loaded
+Design Loading Memory Usage: 9688 KB (Peak: 9688 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 21648 KB (Peak: 21648 KB)
+Simulation CPU Usage: 93 ms

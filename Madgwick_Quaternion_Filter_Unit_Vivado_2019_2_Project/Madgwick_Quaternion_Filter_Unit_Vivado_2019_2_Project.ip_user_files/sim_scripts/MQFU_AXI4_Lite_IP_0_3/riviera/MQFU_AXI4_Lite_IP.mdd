@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER MQFU_AXI4_Lite_IP
+	OPTION supported_peripherals = (MQFU_AXI4_Lite_IP);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = MQFU_AXI4_Lite_IP;
+END DRIVER
